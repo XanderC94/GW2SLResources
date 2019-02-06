@@ -3,7 +3,7 @@
         {
             "name": "GW2 Radial",
             "url": "https://github.com/Friendly0Fire/GW2Radial/releases/download/v1.1.0/GW2Radial.zip",
-            "info": "https://github.com/Friendly0Fire/GW2Radial",
+            "info": "https://raw.githubusercontent.com/Friendly0Fire/GW2Radial/master/readme.md",
             "md5": "",
             "chainloadName": "d3d9_radial.dll",
             "type": "dll"
@@ -27,7 +27,7 @@
         {
             "name": "Tactial Overlay",
             "url": "https://www.dropbox.com/s/nks140nf794tx77/GW2TacO_034r.zip",
-            "info": "",
+            "info": "http://www.gw2taco.com/",
             "md5": "",
             "chainloadName": "",
             "type": "overlay"
@@ -43,7 +43,7 @@
         {
             "name": "Scrolling Combat Text",
             "url": "https://github.com/ideka/AugTyr/releases/download/v0.4-beta/AugTyr-0.4.zip",
-            "info": "https://github.com/Artenuvielle/GW2-SCT",
+            "info": "https://raw.githubusercontent.com/Artenuvielle/GW2-SCT/master/README.md",
             "md5": "",
             "chainloadName": "d3d9_arcdps_sct.dll",
             "type": "dll"
@@ -51,7 +51,7 @@
         {
             "name": "Gw2 Launchbuddy",
             "url": "https://github.com/TheCheatsrichter/Gw2_Launchbuddy/releases/download/1.8.5/Gw2.Launchbuddy.exe",
-            "info": "https://github.com/TheCheatsrichter/Gw2_Launchbuddy",
+            "info": "https://raw.githubusercontent.com/TheCheatsrichter/Gw2_Launchbuddy/master/README.md",
             "md5": "",
             "chainloadName": "",
             "type": "launcher"
