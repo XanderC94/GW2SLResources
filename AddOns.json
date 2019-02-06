@@ -55,6 +55,14 @@
             "md5": "",
             "chainloadName": "",
             "type": "launcher"
+        },
+        {
+            "name": "d912pxy",
+            "url": "https://github.com/megai2/d912pxy/releases/download/v0.9.6a/d912pxy_v0.9.6a.zip",
+            "info": "https://github.com/megai2/d912pxy",
+            "md5": "",
+            "chainloadName": "",
+            "type": "dll"
         }
     ]
 }
