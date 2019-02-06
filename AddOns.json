@@ -3,7 +3,7 @@
         {
             "name": "GW2 Radial",
             "url": "https://github.com/Friendly0Fire/GW2Radial/releases/download/v1.1.0/GW2Radial.zip",
-            "info": "https://raw.githubusercontent.com/Friendly0Fire/GW2Radial/master/readme.md",
+            "info": "https://github.com/Friendly0Fire/GW2Radial",
             "md5": "",
             "chainloadName": "d3d9_radial.dll",
             "type": "dll"
@@ -43,7 +43,7 @@
         {
             "name": "Scrolling Combat Text",
             "url": "https://github.com/ideka/AugTyr/releases/download/v0.4-beta/AugTyr-0.4.zip",
-            "info": "https://raw.githubusercontent.com/Artenuvielle/GW2-SCT/master/README.md",
+            "info": "https://github.com/ideka/AugTyr",
             "md5": "",
             "chainloadName": "d3d9_arcdps_sct.dll",
             "type": "dll"
