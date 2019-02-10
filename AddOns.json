@@ -8,7 +8,7 @@
             "chainloadName": "d3d9.dll",
             "type": "dll",
             "chainloader": "",
-            "canChainload: true
+            "canChainload": true
         },
         {
             "name": "ArcDPS",
@@ -18,7 +18,7 @@
             "chainloadName": "d3d9_mchain.dll",
             "type": "dll",
             "chainloader": "https://www.deltaconnected.com/arcdps/reshade_loader/d3d9_chainload.dll",
-            "canChainload: true
+            "canChainload": true
         },
         {
             "name": "Build Template",
@@ -28,7 +28,7 @@
             "chainloadName": "d3d9_arcdps_buildtemplates.dll",
             "type": "dll",
             "chainloader": "",
-            "canChainload: false
+            "canChainload": false
         },
         {
             "name": "Tactial Overlay",
@@ -38,7 +38,7 @@
             "chainloadName": "",
             "type": "overlay",
             "chainloader": "",
-            "canChainload: false
+            "canChainload": false
         },
         {
             "name": "GW2 Hook",
@@ -48,7 +48,7 @@
             "chainloadName": "ReShade64.dll",
             "type": "dll",
             "chainloader": "",
-            "canChainload: false
+            "canChainload": false
         },
         {
             "name": "Scrolling Combat Text",
@@ -58,7 +58,7 @@
             "chainloadName": "d3d9_arcdps_sct.dll",
             "type": "dll",
             "chainloader": "",
-            "canChainload: false
+            "canChainload": false
         },
         {
             "name": "Gw2 Launchbuddy",
@@ -68,7 +68,7 @@
             "chainloadName": "",
             "type": "launcher",
             "chainloader": "",
-            "canChainload: false
+            "canChainload": false
         },
         {
             "name": "d912pxy",
@@ -78,7 +78,7 @@
             "chainloadName": "d3d9.dll",
             "type": "dll",
             "chainloader": "",
-            "canChainload: true
+            "canChainload": true
         }
     ]
 }
