@@ -5,16 +5,20 @@
             "url": "https://github.com/Friendly0Fire/GW2Radial/releases/download/v1.1.0/GW2Radial.zip",
             "info": "https://github.com/Friendly0Fire/GW2Radial",
             "md5": "",
-            "chainloadName": "d3d9_radial.dll",
-            "type": "dll"
+            "chainloadName": "d3d9.dll",
+            "type": "dll",
+            "chainloader": "",
+            "canChainload: true
         },
         {
             "name": "ArcDPS",
             "url": "https://www.deltaconnected.com/arcdps/x64/d3d9.dll",
             "info": "https://www.deltaconnected.com/arcdps/",
             "md5": "https://www.deltaconnected.com/arcdps/x64/d3d9.dll.md5sum",
-            "chainloadName": "d3d9.dll",
-            "type": "dll"
+            "chainloadName": "d3d9_mchain.dll",
+            "type": "dll",
+            "chainloader": "https://www.deltaconnected.com/arcdps/reshade_loader/d3d9_chainload.dll",
+            "canChainload: true
         },
         {
             "name": "Build Template",
@@ -22,7 +26,9 @@
             "info": "https://www.deltaconnected.com/arcdps/",
             "md5": "https://www.deltaconnected.com/arcdps/x64/d3d9.dll.md5sum",
             "chainloadName": "d3d9_arcdps_buildtemplates.dll",
-            "type": "dll"
+            "type": "dll",
+            "chainloader": "",
+            "canChainload: false
         },
         {
             "name": "Tactial Overlay",
@@ -30,7 +36,9 @@
             "info": "http://www.gw2taco.com/",
             "md5": "",
             "chainloadName": "",
-            "type": "overlay"
+            "type": "overlay",
+            "chainloader": "",
+            "canChainload: false
         },
         {
             "name": "GW2 Hook",
@@ -38,7 +46,9 @@
             "info": "https://04348.github.io/Gw2Hook/index.html",
             "md5": "",
             "chainloadName": "ReShade64.dll",
-            "type": "dll"
+            "type": "dll",
+            "chainloader": "",
+            "canChainload: false
         },
         {
             "name": "Scrolling Combat Text",
@@ -46,7 +56,9 @@
             "info": "https://github.com/ideka/AugTyr",
             "md5": "",
             "chainloadName": "d3d9_arcdps_sct.dll",
-            "type": "dll"
+            "type": "dll",
+            "chainloader": "",
+            "canChainload: false
         },
         {
             "name": "Gw2 Launchbuddy",
@@ -54,7 +66,9 @@
             "info": "https://github.com/TheCheatsrichter/Gw2_Launchbuddy",
             "md5": "",
             "chainloadName": "",
-            "type": "launcher"
+            "type": "launcher",
+            "chainloader": "",
+            "canChainload: false
         },
         {
             "name": "d912pxy",
@@ -62,7 +76,9 @@
             "info": "https://github.com/megai2/d912pxy",
             "md5": "",
             "chainloadName": "",
-            "type": "dll"
+            "type": "dll",
+            "chainloader": "",
+            "canChainload: true
         }
     ]
 }
