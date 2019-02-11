@@ -5,40 +5,53 @@
             "url": "https://github.com/Friendly0Fire/GW2Radial/releases/download/v1.1.0/GW2Radial.zip",
             "info": "https://github.com/Friendly0Fire/GW2Radial",
             "md5": "",
-            "chainloadName": "d3d9.dll",
+            "exe": "d3d9.dll",
             "type": "dll",
             "chainloader": "",
-            "canChainload": true
+            "canChainload": true,
+            "canBeChainloaded": false,
+            "chainloadName": "d3d9.dll",
+            "bindings": []
         },
         {
             "name": "ArcDPS",
             "url": "https://www.deltaconnected.com/arcdps/x64/d3d9.dll",
             "info": "https://www.deltaconnected.com/arcdps/",
             "md5": "https://www.deltaconnected.com/arcdps/x64/d3d9.dll.md5sum",
-            "chainloadName": "d3d9_mchain.dll",
+            "exe": "d3d9.dll",
             "type": "dll",
             "chainloader": "https://www.deltaconnected.com/arcdps/reshade_loader/d3d9_chainload.dll",
-            "canChainload": true
+            "canChainload": true,
+            "canBeChainloaded": true,
+            "chainloadName": "d3d9_mchain.dll",
+            "bindings": []
         },
         {
             "name": "Build Template",
             "url": "https://www.deltaconnected.com/arcdps/x64/buildtemplates/d3d9_arcdps_buildtemplates.dll",
             "info": "https://www.deltaconnected.com/arcdps/",
-            "md5": "https://www.deltaconnected.com/arcdps/x64/d3d9.dll.md5sum",
-            "chainloadName": "d3d9_arcdps_buildtemplates.dll",
+            "md5": "",
+            "exe": "d3d9_arcdps_buildtemplates.dll",
             "type": "dll",
             "chainloader": "",
-            "canChainload": false
+            "canChainload": false,
+            "canBeChainloaded": false,
+            "chainloadName": "d3d9.dll",
+            "bindings": ["ArcDPS"]
         },
         {
             "name": "Tactial Overlay",
             "url": "https://www.dropbox.com/s/nks140nf794tx77/GW2TacO_034r.zip",
             "info": "http://www.gw2taco.com/",
             "md5": "",
+            "exe": "GW2TacO.exe",
             "chainloadName": "",
             "type": "overlay",
             "chainloader": "",
-            "canChainload": false
+            "canChainload": false,
+            "canBeChainloaded": false,
+            "chainloadName": "",
+            "bindings": []
         },
         {
             "name": "GW2 Hook",
@@ -48,37 +61,73 @@
             "chainloadName": "ReShade64.dll",
             "type": "dll",
             "chainloader": "",
-            "canChainload": false
+            "canChainload": false,
+            "canBeChainloaded": true,
+            "chainloadName": "d3d9.dll",
+            "bindings": []
         },
         {
             "name": "Scrolling Combat Text",
+            "url": "https://github.com/Artenuvielle/GW2-SCT/releases/download/1.1-RC3/d3d9_arcdps_sct.dll",
+            "info": "https://github.com/Artenuvielle/GW2-SCT",
+            "md5": "",
+            "exe": "d3d9_arcdps_sct.dll",
+            "type": "dll",
+            "chainloader": "",
+            "canChainload": false,
+            "canBeChainloaded": false,
+            "chainloadName": "",
+            "bindings": ["ArcDPS"]
+        },
+        {
+            "name": "Augmented Tyria",
             "url": "https://github.com/ideka/AugTyr/releases/download/v0.4-beta/AugTyr-0.4.zip",
             "info": "https://github.com/ideka/AugTyr",
             "md5": "",
-            "chainloadName": "d3d9_arcdps_sct.dll",
-            "type": "dll",
+            "exe": "AugTyr.exe",
+            "type": "overlay",
             "chainloader": "",
-            "canChainload": false
+            "canChainload": false,
+            "canBeChainloaded": false,
+            "chainloadName": "",
+            "bindings": []
         },
         {
             "name": "Gw2 Launchbuddy",
             "url": "https://github.com/TheCheatsrichter/Gw2_Launchbuddy/releases/download/1.8.5/Gw2.Launchbuddy.exe",
             "info": "https://github.com/TheCheatsrichter/Gw2_Launchbuddy",
             "md5": "",
-            "chainloadName": "",
+            "exe": "Gw2.Launchbuddy.exe",
             "type": "launcher",
             "chainloader": "",
-            "canChainload": false
+            "canChainload": false,
+            "canBeChainloaded": false,
+            "chainloadName": "",
+            "bindings": []
         },
         {
             "name": "d912pxy",
             "url": "https://github.com/megai2/d912pxy/releases/download/v0.9.6a/d912pxy_v0.9.6a.zip",
             "info": "https://github.com/megai2/d912pxy",
             "md5": "",
-            "chainloadName": "d3d9.dll",
             "type": "dll",
             "chainloader": "",
-            "canChainload": true
+            "canChainload": false,
+            "canBeChainloaded": false,
+            "chainloadName": "d3d9.dll",
+            "bindings": []
+        },
+        {
+            "name": "GW2Navi",
+            "url": "https://gw2timer.com/",
+            "info": "https://www.tapatalk.com/groups/renaka/gw2navi-guild-wars-2-overlay-t144.html",
+            "md5": "",
+            "type": "overlay",
+            "chainloader": "",
+            "canChainload": false,
+            "canBeChainloaded": false,
+            "chainloadName": "",
+            "bindings": []
         }
     ]
 }
