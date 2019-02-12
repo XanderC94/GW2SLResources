@@ -30,7 +30,7 @@
             "name": "Build Template",
             "url": "https://www.deltaconnected.com/arcdps/x64/buildtemplates/d3d9_arcdps_buildtemplates.dll",
             "info": "https://www.deltaconnected.com/arcdps/",
-            "md5": "",
+            "md5": "https://www.deltaconnected.com/arcdps/x64/d3d9.dll.md5sum",
             "exe": "d3d9_arcdps_buildtemplates.dll",
             "type": "dll",
             "chainloader": "",
