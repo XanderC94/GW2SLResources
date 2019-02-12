@@ -9,8 +9,8 @@
             "type": "dll",
             "chainloader": "",
             "canChainload": true,
-            "canBeChainloaded": false,
-            "chainloadName": "d3d9.dll",
+            "canBeChainloaded": true,
+            "chainloadName": "d3d9_chainload.dll",
             "bindings": []
         },
         {
@@ -22,7 +22,7 @@
             "type": "dll",
             "chainloader": "https://www.deltaconnected.com/arcdps/reshade_loader/d3d9_chainload.dll",
             "canChainload": true,
-            "canBeChainloaded": true,
+            "canBeChainloaded": false,
             "chainloadName": "d3d9_mchain.dll",
             "bindings": []
         },
