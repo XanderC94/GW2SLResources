@@ -69,7 +69,7 @@
         },
         {
             "name": "Scrolling Combat Text",
-            "url": "https://api.github.com/repos/Artenuvielle/GW2-SCT/releases/latest",
+            "url": "https://api.github.com/repos/Artenuvielle/GW2-SCT/releases",
             "info": "https://github.com/Artenuvielle/GW2-SCT",
             "signature": "",
             "exe": "d3d9_arcdps_sct.dll",
@@ -108,7 +108,7 @@
         },
         {
             "name": "Augmented Tyria",
-            "url": "https://api.github.com/repos/ideka/AugTyr/releases/latest",
+            "url": "https://api.github.com/repos/ideka/AugTyr/releases",
             "info": "https://github.com/ideka/AugTyr",
             "signature": "",
             "exe": "AugTyr.exe",
@@ -134,7 +134,7 @@
         },
         {
             "name": "d912pxy",
-            "url": "https://api.github.com/repos/megai2/d912pxy/releases/latest",
+            "url": "https://api.github.com/repos/megai2/d912pxy/releases",
             "info": "https://github.com/megai2/d912pxy",
             "signature": "",
             "exe": "d3d9.dll",
