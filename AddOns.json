@@ -97,7 +97,7 @@
             "url": "http://martionlabs.com/wp-content/uploads/d3d9_arcdps_table.dll",
             "info": "http://martionlabs.com/arcdps-boon-table/",
             "signature": "http://martionlabs.com/wp-content/uploads/d3d9_arcdps_table.dll.md5sum",
-            "exe": "d3d9_arcdps_mechanics.dll",
+            "exe": "d3d9_arcdps_table.dll",
             "type": "dll",
             "chainloader": "",
             "canChainload": false,
