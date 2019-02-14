@@ -58,6 +58,7 @@
             "url": "https://04348.github.io/Gw2Hook/download.html",
             "info": "https://04348.github.io/Gw2Hook/index.html",
             "signature": "",
+            "exe": "d3d9.dll",
             "chainloadName": "ReShade64.dll",
             "type": "dll",
             "chainloader": "",
@@ -136,11 +137,12 @@
             "url": "https://api.github.com/repos/megai2/d912pxy/releases/latest",
             "info": "https://github.com/megai2/d912pxy",
             "signature": "",
+            "exe": "d3d9.dll",
             "type": "dll",
             "chainloader": "",
             "canChainload": false,
             "canBeChainloaded": false,
-            "chainloadName": "d3d9.dll",
+            "chainloadName": "",
             "bindings": []
         },
         {
