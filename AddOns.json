@@ -147,8 +147,8 @@
         },
         {
             "name": "GW2Navi",
-            "url": "https://gw2timer.com/",
-            "info": "https://www.tapatalk.com/groups/renaka/gw2navi-guild-wars-2-overlay-t144.html",
+            "url": "https://github.com/Drant/GW2Navi/archive/master.zip",
+            "info": "https://gw2timer.com/",
             "signature": "",
             "type": "overlay",
             "chainloader": "",
