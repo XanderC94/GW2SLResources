@@ -2,7 +2,7 @@
     "addOns": [
         {
             "name": "GW2 Radial",
-            "url": "https://api.github.com/repos/Friendly0Fire/GW2Radial/releases",
+            "url": "https://api.github.com/repos/Friendly0Fire/GW2Radial/releases/latest",
             "info": "https://github.com/Friendly0Fire/GW2Radial",
             "signature": "",
             "exe": "d3d9.dll",
@@ -68,7 +68,7 @@
         },
         {
             "name": "Scrolling Combat Text",
-            "url": "https://api.github.com/repos/Artenuvielle/GW2-SCT/releases",
+            "url": "https://api.github.com/repos/Artenuvielle/GW2-SCT/releases/latest",
             "info": "https://github.com/Artenuvielle/GW2-SCT",
             "signature": "",
             "exe": "d3d9_arcdps_sct.dll",
@@ -107,7 +107,7 @@
         },
         {
             "name": "Augmented Tyria",
-            "url": "https://api.github.com/repos/ideka/AugTyr/releases",
+            "url": "https://api.github.com/repos/ideka/AugTyr/releases/latest",
             "info": "https://github.com/ideka/AugTyr",
             "signature": "",
             "exe": "AugTyr.exe",
@@ -120,7 +120,7 @@
         },
         {
             "name": "Gw2 Launchbuddy",
-            "url": "https://api.github.com/repos/TheCheatsrichter/Gw2_Launchbuddy/releases",
+            "url": "https://api.github.com/repos/TheCheatsrichter/Gw2_Launchbuddy/releases/latest",
             "info": "https://github.com/TheCheatsrichter/Gw2_Launchbuddy",
             "signature": "",
             "exe": "Gw2.Launchbuddy.exe",
@@ -133,7 +133,7 @@
         },
         {
             "name": "d912pxy",
-            "url": "https://api.github.com/repos/megai2/d912pxy/releases",
+            "url": "https://api.github.com/repos/megai2/d912pxy/releases/latest",
             "info": "https://github.com/megai2/d912pxy",
             "signature": "",
             "type": "dll",
