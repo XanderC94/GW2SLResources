@@ -59,12 +59,11 @@
             "info": "https://04348.github.io/Gw2Hook/index.html",
             "signature": "",
             "exe": "d3d9.dll",
-            "chainloadName": "ReShade64.dll",
             "type": "dll",
             "chainloader": "",
             "canChainload": false,
             "canBeChainloaded": true,
-            "chainloadName": "d3d9.dll",
+            "chainloadName": "ReShade64.dll",
             "bindings": []
         },
         {
