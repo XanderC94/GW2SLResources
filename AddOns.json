@@ -149,7 +149,7 @@
             "url": "https://github.com/Drant/GW2Navi/archive/master.zip",
             "info": "https://gw2timer.com/",
             "signature": "",
-            "exe": "",
+            "exe": "GW2Navi.exe",
             "type": "overlay",
             "chainloader": "",
             "canChainload": false,
